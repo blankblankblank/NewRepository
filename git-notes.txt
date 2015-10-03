@@ -13,4 +13,18 @@ mkdir [directory-name]
 touch [file.extension]
    creates a new file with name [file.extension]
 
-   
+git init
+   used to create a new git repository
+
+git status
+   Tells us the status of our working directory
+
+git add [file]   
+   Tells git to start tracking a specific [file]
+
+git commit -m 'MESSAGE'
+   Commits change into repository
+
+git log
+   Shows us all the commits that were made
+      
