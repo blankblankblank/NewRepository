@@ -47,4 +47,6 @@ git checkout [branch-name]
 
 git merge [branch-name]
    merge changes on [branch-name] into current branch
-   
+
+git checkout [commit-id]
+   switches to [commit-id]
